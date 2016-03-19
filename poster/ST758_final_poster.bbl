@@ -1,0 +1,65 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 2.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{fencelinerule}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {EPA}{E.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{E1}
+  \strng{fullhash}{E1}
+  \field{sortinit}{E}
+  \field{issue}{79 FR 36879}
+  \field{title}{Petroleum Refinery Sector Risk and Technology Review and New
+  Source Performance Standards}
+  \verb{url}
+  \verb https://www.federalregister.gov/articles/2014/06/30/2014-12167/petroleu
+  \verb m-refinery-sector-risk-and-technology-review-and-new-source-performance
+  \verb -standards
+  \endverb
+  \field{volume}{40 CFR 60}
+  \field{year}{2014}
+\endentry
+
+\entry{QUIC}{misc}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Pardyjak}{P.}%
+     {E.~R.}{E.~R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Brown}{B.}%
+     {M.~J.}{M.~J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PERBMJ1}
+  \strng{fullhash}{PERBMJ1}
+  \field{sortinit}{P}
+  \field{title}{Quick Urban \& Industrial Complex (QUIC) Dispersion Modeling
+  System}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

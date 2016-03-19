@@ -1,0 +1,35 @@
+\begin{thebibliography}{1}
+
+\bibitem{fencelinerule}
+EPA.
+\newblock Petroleum refinery sector risk and technology review and new source
+  performance standards, 2014.
+\newblock
+  \url{https://www.federalregister.gov/articles/2014/06/30/2014-12167/petroleum-refinery-sector-risk-and-technology-review-and-new-source-performance-standards}
+  Accessed Dec 7, 2015.
+
+\bibitem{python}
+P.~S. Foundation.
+\newblock {\em Python Language Reference, version 2.7.9}, 2015.
+\newblock \url{www.python.org}, Accessed Dec 7, 2015.
+
+\bibitem{wan2015}
+W.~Jiao, E.~Thoma, H.~Brantley, B.~Squier, B.~Mitchell, E.~Escobar, M.~Modrak,
+  S.~Amin, and G.~Wiley.
+\newblock Investigation of a low cost sensor-based leak detection system for
+  fence line applications.
+\newblock {\em 80th Annual Meeting of the Air \& Waste Management Association},
+  Raleigh, NC, June 23 - 26, 2015.
+
+\bibitem{scipy}
+E.~Jones, T.~Oliphant, P.~Peterson, et~al.
+\newblock {SciPy}: Open source scientific tools for {Python}, 2001--.
+\newblock \url{http://www.scipy.org}, Accessed Dec 7, 2015.
+
+\bibitem{QUIC}
+E.~R. Pardyjak and M.~J. Brown.
+\newblock Quick urban \& industrial complex ({QUIC}) dispersion modeling
+  system.
+\newblock \url{http://www.lanl.gov/projects/quic/}, Accessed Dec 7, 2015.
+
+\end{thebibliography}
